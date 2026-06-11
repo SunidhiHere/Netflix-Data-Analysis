@@ -10,3 +10,12 @@ How are movies and TV shows distributed across the platform?
 Which content certification categories are most common?
 What runtime ranges are most popular among viewers?
 How has Netflix's content library evolved over the years?
+## Business Problem
+Netflix hosts thousands of movies and TV shows across different genres, durations, and audience categories. The objective of this project is to:
+
+Analyze Netflix's content portfolio.
+Identify highly-rated content using IMDb scores.
+Understand content distribution between Movies and TV Shows.
+Explore runtime popularity patterns.
+Examine certification category trends.
+Track content release growth over time.
