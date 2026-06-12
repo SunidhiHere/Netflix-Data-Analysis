@@ -19,3 +19,84 @@ Understand content distribution between Movies and TV Shows.
 Explore runtime popularity patterns.
 Examine certification category trends.
 Track content release growth over time.
+
+## Dashboard Features
+1. KPI Cards
+
+Provides quick summary metrics:
+
+Average Runtime: 38.63 minutes
+Total Titles Analyzed: 1,876
+Average IMDb Score: 7.02
+2. Top Rated Titles
+
+Displays the highest IMDb-rated content available in the dataset.
+
+Examples:
+
+#ABtalks
+Khawatir
+Breaking Bad
+Avatar: The Last Airbender
+Kota Factory
+Our Planet
+Arcane
+
+This section helps identify premium and critically acclaimed content.
+
+3. Runtime Popularity Analysis
+Movies Runtime Distribution
+
+Visualizes how movie popularity varies across runtime lengths.
+
+Key Insights:
+
+Most movies fall between 80–120 minutes.
+Peak popularity occurs around the 90–100 minute range.
+Extremely short or long movies are less common.
+TV Shows Runtime Distribution
+
+Analyzes episode duration patterns.
+
+Key Insights:
+
+Most TV show episodes range between 20–50 minutes.
+Strong concentration around 30–45 minutes.
+Longer episodes become increasingly rare.
+4. Content Certification Analysis
+
+Shows the distribution of titles by audience certification.
+
+Major Categories:
+
+TV-MA
+R
+TV-14
+PG-13
+PG
+TV-PG
+TV-Y7
+
+Key Insight:
+Netflix content is heavily concentrated in mature audience categories such as TV-MA and R, indicating a strong focus on adult-oriented content.
+
+5. Content Type Distribution
+
+A donut chart comparing:
+
+Movies (64.49%)
+TV Shows (35.51%)
+
+Key Insight:
+Movies represent nearly two-thirds of Netflix's catalog, making them the dominant content type on the platform.
+
+6. Release Trend Analysis
+
+Tracks the number of titles released over time.
+
+Key Insights:
+
+Content growth remained relatively slow before 2010.
+Significant acceleration occurred after 2015.
+Peak content additions were observed between 2018–2021.
+Demonstrates Netflix's aggressive content expansion strategy.
