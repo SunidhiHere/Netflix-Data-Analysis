@@ -93,6 +93,13 @@ Movies represent nearly two-thirds of Netflix's catalog, making them the dominan
 6. Release Trend Analysis
 
 Tracks the number of titles released over time.
+## Key Findings
+Netflix catalog is dominated by Movies (64.49%).
+Average IMDb rating of Netflix content is 7.02, indicating generally favorable audience reception.
+Most successful movies have runtimes between 80–120 minutes.
+TV-MA is the most common certification category.
+Netflix experienced rapid content growth after 2015.
+Highly-rated content includes internationally acclaimed titles such as Breaking Bad, Arcane, Kota Factory, and Our Planet.
 
 ## Conclusion
 This Netflix Analytics Dashboard provides a comprehensive overview of Netflix's content ecosystem through runtime analysis, IMDb ratings, certification categories, content type distribution, and release trends. The insights reveal Netflix's preference for movie content, focus on mature audiences, and rapid catalog expansion over the last decade. The dashboard demonstrates how data visualization can transform raw entertainment data into meaningful business insights for content strategy and audience analysis.
