@@ -19,6 +19,21 @@ Understand content distribution between Movies and TV Shows.
 Explore runtime popularity patterns.
 Examine certification category trends.
 Track content release growth over time.
+## Project Pipeline
+Data Collection
+Gather Netflix dataset containing titles, IMDb ratings, runtime, release year, and certifications.
+Data Cleaning
+Handle missing values, remove duplicates, and standardize data formats.
+Data Transformation
+Create required measures and categories for analysis.
+Exploratory Data Analysis (EDA)
+Analyze content types, IMDb scores, runtimes, certifications, and release trends.
+Dashboard Development
+Design KPI cards, charts, and visualizations in Power BI.
+Insight Generation
+Identify top-rated content, popular runtime ranges, certification trends, and content growth patterns.
+Reporting & Visualization
+Present findings through an interactive Netflix Analytics Dashboard for easy decision-making.
 
 ## Dashboard Features
 1. KPI Cards
