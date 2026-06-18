@@ -3,16 +3,8 @@
 ## Introduction
 The Netflix Analytics Dashboard is an interactive business intelligence dashboard designed to analyze Netflix content using IMDb ratings, runtime distributions, content classifications, and release trends. The dashboard provides insights into the composition of Netflix's catalog, helping users understand content performance, viewer preferences, and platform growth over time.
 
-The dashboard was built to answer key questions such as:
-
-What are the highest-rated titles on Netflix?
-How are movies and TV shows distributed across the platform?
-Which content certification categories are most common?
-What runtime ranges are most popular among viewers?
-How has Netflix's content library evolved over the years?
 ## Business Problem
 Netflix hosts thousands of movies and TV shows across different genres, durations, and audience categories. The objective of this project is to:
-
 Analyze Netflix's content portfolio.
 Identify highly-rated content using IMDb scores.
 Understand content distribution between Movies and TV Shows.
@@ -34,8 +26,16 @@ Insight Generation
 Identify top-rated content, popular runtime ranges, certification trends, and content growth patterns.
 Reporting & Visualization
 Present findings through an interactive Netflix Analytics Dashboard for easy decision-making.
-## Dashboard Features
 
+## Dahboard Content
+The dashboard was built to answer key questions such as:
+What are the highest-rated titles on Netflix?
+How are movies and TV shows distributed across the platform?
+Which content certification categories are most common?
+What runtime ranges are most popular among viewers?
+How has Netflix's content library evolved over the years?
+
+## Dashboard Features
 1. KPI Cards
 Displays key performance indicators that provide a quick overview of the Netflix dataset, including Average Runtime, Total Titles, and Average IMDb Score. These metrics help users understand the overall scale and quality of Netflix content at a glance.
 
@@ -61,13 +61,10 @@ Most successful movies have runtimes between 80–120 minutes.
 TV-MA is the most common certification category.
 Netflix experienced rapid content growth after 2015.
 Highly-rated content includes internationally acclaimed titles such as Breaking Bad, Arcane, Kota Factory, and Our Planet.
-
-## Conclusion
-This Netflix Analytics Dashboard provides a comprehensive overview of Netflix's content ecosystem through runtime analysis, IMDb ratings, certification categories, content type distribution, and release trends. The insights reveal Netflix's preference for movie content, focus on mature audiences, and rapid catalog expansion over the last decade. The dashboard demonstrates how data visualization can transform raw entertainment data into meaningful business insights for content strategy and audience analysis.
-
-Key Insights:
-
 Content growth remained relatively slow before 2010.
 Significant acceleration occurred after 2015.
 Peak content additions were observed between 2018–2021.
 Demonstrates Netflix's aggressive content expansion strategy.
+
+## Conclusion
+This Netflix Analytics Dashboard provides a comprehensive overview of Netflix's content ecosystem through runtime analysis, IMDb ratings, certification categories, content type distribution, and release trends. The insights reveal Netflix's preference for movie content, focus on mature audiences, and rapid catalog expansion over the last decade. The dashboard demonstrates how data visualization can transform raw entertainment data into meaningful business insights for content strategy and audience analysis.
