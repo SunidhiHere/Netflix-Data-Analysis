@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Netflix Analysis</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #000000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .title {
+            color: #E50914;
+            font-size: 72px;
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="title">Netflix Analysis</h1>
+</body>
+</html>
 <img width="1169" height="656" alt="Screenshot 2025-10-07 114939" src="https://github.com/user-attachments/assets/baee712a-aa39-41d3-93eb-dc1508ce6f8c" />
 
 ## Introduction
